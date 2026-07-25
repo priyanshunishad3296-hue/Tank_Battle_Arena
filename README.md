@@ -79,23 +79,6 @@ TankBattleArena/
 └── README.md
 ```
 
-## Screenshots
-
-### Main Menu
-
-(Add Screenshot Here)
-
-### Color Selection
-
-(Add Screenshot Here)
-
-### Weapon Selection
-
-(Add Screenshot Here)
-
-### Gameplay
-
-(Add Screenshot Here)
 
 ## Future Improvements
 
